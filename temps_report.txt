@@ -1,0 +1,12 @@
+Weekly Temperature Report
+Monday: 68
+Tuesday: 72
+Wednesday: 75
+Thursday: 71
+Friday: 66
+Saturday: 74
+Sunday: 70
+Average high: 70.9
+Warmest day: Wednesday (75)
+Coldest day: Friday (66)
+Days above average: 4
